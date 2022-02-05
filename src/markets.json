@@ -1,5 +1,10 @@
 [
       {
+            "address": "CoGvK6dVb9zAsKdMt6TGV9ZK7KDNVs5uDQtULKxrL2hn",
+            "name": "$BRUSH/SOL",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "3b8rvkQ7EnyLNuf2h32SZbUKvSbkws3t4cqa9gpyy4em",
             "name": "TTR/USDT",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
