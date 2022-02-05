@@ -1,5 +1,10 @@
 [
       {
+            "address": "9BnST8GeTdj4t6m2eUDUZ6hHawe8FYcuPJLQfwaN6X6c",
+            "name": "SOUL/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "CoGvK6dVb9zAsKdMt6TGV9ZK7KDNVs5uDQtULKxrL2hn",
             "name": "$BRUSH/SOL",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
