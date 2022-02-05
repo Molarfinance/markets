@@ -1,5 +1,10 @@
 [
       {
+            "address": "4wqFtfechUSNW1nJ3WK5ogy478GTa66H99RrKnz45fa9",
+            "name": "ARTE/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "9BnST8GeTdj4t6m2eUDUZ6hHawe8FYcuPJLQfwaN6X6c",
             "name": "SOUL/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
