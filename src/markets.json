@@ -1,5 +1,10 @@
 [
       {
+            "address": "4pztxkTnMtgqeeAbERskZwDKn4DsGebu5ieUg3cPcMAC",
+            "name": "INV/SOL",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "Gj5XD2kqNPJz4X6vPW5M7w7WK524KsdkFG371LpAQqNZ",
             "name": "BFT/USDT",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
