@@ -1,5 +1,10 @@
 [
       {
+            "address": "Hqk7eB5q6gmDeH5b8bHJrRjWJ3wKkArXoNuY2LiCXfYv",
+            "name": "BELE/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "4Mv2Bc8o32i6pPdWQNuU7Ciw9FSqqtd4pDi52PmMgZJ4",
             "name": "METAIN/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
