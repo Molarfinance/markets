@@ -1,5 +1,10 @@
 [
       {
+            "address": "4Mv2Bc8o32i6pPdWQNuU7Ciw9FSqqtd4pDi52PmMgZJ4",
+            "name": "METAIN/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "4pztxkTnMtgqeeAbERskZwDKn4DsGebu5ieUg3cPcMAC",
             "name": "INV/SOL",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
