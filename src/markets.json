@@ -1,5 +1,10 @@
 [
       {
+            "address": "Gj5XD2kqNPJz4X6vPW5M7w7WK524KsdkFG371LpAQqNZ",
+            "name": "BFT/USDT",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "4wqFtfechUSNW1nJ3WK5ogy478GTa66H99RrKnz45fa9",
             "name": "ARTE/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
