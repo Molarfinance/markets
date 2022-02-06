@@ -1,5 +1,10 @@
 [
       {
+            "address": "BErXipc6aRpF17fWwbb1LUct8vHjBsireQ7ksMmRnJze",
+            "name": "WATR/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "Cvytn7tYGTdjkzTi7tMAFNN3mB8jJUgFzzfb1fL1m9Wh",
             "name": "ALIEN/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
