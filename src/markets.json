@@ -1,5 +1,10 @@
 [
       {
+            "address": "Ew1kWM99LECzLcV7oR95G9hMejsEfkjL5cy1HcashZgN",
+            "name": "QTX/SOL",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "7a2MRRxiudqKLa1KGVjVCNbKwtesdkvx9aeTVCQkQDwP",
             "name": "ENFENDI/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
