@@ -1,5 +1,10 @@
 [
       {
+            "address": "7a2MRRxiudqKLa1KGVjVCNbKwtesdkvx9aeTVCQkQDwP",
+            "name": "ENFENDI/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "8LjiZqCNQfD27jwR85mUQpYdt7JfocNT22iWJUEeqBsH",
             "name": "MBM/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
