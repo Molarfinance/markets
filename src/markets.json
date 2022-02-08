@@ -1,5 +1,10 @@
 [
       {
+            "address": "5DpM9oNCiEiHnPvtoruJ6XDZaakvoFcX4doCvemTkD12",
+            "name": "CHAM/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "GQNxViuLcX1xZEFDWUwKikYw85VqNQBhVLhzRMespNMJ",
             "name": "MANIAK/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
