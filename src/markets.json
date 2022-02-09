@@ -1,5 +1,10 @@
 [
       {
+            "address": "6LsQho2XzsuMWu8sxX6WY17bb2Y8Z5E2EQhm7ty2HjhG",
+            "name": "JFICALL/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "51sm2KNSA61wVgtoXuV3d3j4AXZeGxcVb8JnH9yxXWGF",
             "name": "SPACEGOLD/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
