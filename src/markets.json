@@ -1,5 +1,10 @@
 [
       {
+            "address": "AeaYyJVT1XP6qSn75fpwkYe3Av9zmkcCje33FgipT7Ji",
+            "name": "DGG/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "8TAd5ARuq5mYdY3t3PamRaE5Gf95JqgSpVmgTDwYyVXY",
             "name": "JFI/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
