@@ -1,5 +1,10 @@
 [
       {
+            "address": "8EHwqJahya7wd97HL3bymA4pmDZFiCeMqqGdYE8ho5nH",
+            "name": "DIRE/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "FebtBytWmf98xryiiNK3qFr44KLaBgCf6rGXa5NgqAGG",
             "name": "JUNK/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
