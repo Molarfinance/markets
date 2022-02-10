@@ -1,5 +1,10 @@
 [
       {
+            "address": "CskAHqQ8xRugepWduRDAQwmzEwskMm38Z33Z2yyRjZcU",
+            "name": "DKZ/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "J6EUxqoNdhnvsrkxXhGMjGJqQnYRQFxR1JtQ2HorFgP4",
             "name": "RZC/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
