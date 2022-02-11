@@ -1,5 +1,10 @@
 [
       {
+            "address": "E8rii3h6JTqgDg2quM6qKGFhKrLrpS74yCC84FE8t6MK",
+            "name": "BUM/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "5iQoSUFmeMpTmaiw3gCd1QMeqCy7yLtaG1QRNqwieKjL",
             "name": "XENO/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
