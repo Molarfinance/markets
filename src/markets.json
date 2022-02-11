@@ -1,5 +1,10 @@
 [
       {
+            "address": "5iQoSUFmeMpTmaiw3gCd1QMeqCy7yLtaG1QRNqwieKjL",
+            "name": "XENO/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "ACerKV6gL2UdcbLzjiC8mNfNoYE4UHcfLnGqaQS62tSM",
             "name": "WWV/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
