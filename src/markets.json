@@ -1,5 +1,10 @@
 [
       {
+            "address": "3VBjGQof9v15UNgjYTEoNJ1gG1KGbdh1o9Q1NJAU7wem",
+            "name": "DRAY/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "HbS2k9vhMbF5sNhLa5k5NUReLGxWAuiqPwUtAut83CkA",
             "name": "NRC/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
