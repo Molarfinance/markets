@@ -1,5 +1,10 @@
 [
       {
+            "address": "9d9c6nXdTjgYr336UCmu8cBE8HNfVgseNgDMY6gHHUmk",
+            "name": "CUSEGOVERN/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "E8rii3h6JTqgDg2quM6qKGFhKrLrpS74yCC84FE8t6MK",
             "name": "BUM/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
