@@ -1,5 +1,10 @@
 [
       {
+            "address": "Tx8YDxcDeXy7BqP8LGGMG4ozeDAdpSX1NTiFbFn5fZi",
+            "name": "BISCUITS/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "3VBjGQof9v15UNgjYTEoNJ1gG1KGbdh1o9Q1NJAU7wem",
             "name": "DRAY/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
