@@ -1,5 +1,10 @@
 [
       {
+            "address": "pCqvxJtMVz7th2VUc6KW9zLZeetciWiwe1PkqFocdvt",
+            "name": "SCARAB/ANKH",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "Tx8YDxcDeXy7BqP8LGGMG4ozeDAdpSX1NTiFbFn5fZi",
             "name": "BISCUITS/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
