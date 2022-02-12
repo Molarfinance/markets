@@ -1,5 +1,15 @@
 [
       {
+            "address": "HbS2k9vhMbF5sNhLa5k5NUReLGxWAuiqPwUtAut83CkA",
+            "name": "NRC/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
+            "address": "LgJKrXfwHJ2uFqkayPxrpNVw2Gdb3FQQEikF8kAuPFE",
+            "name": "ANKH/USDC",
+            "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      },
+      {
             "address": "9d9c6nXdTjgYr336UCmu8cBE8HNfVgseNgDMY6gHHUmk",
             "name": "CUSEGOVERN/USDC",
             "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
